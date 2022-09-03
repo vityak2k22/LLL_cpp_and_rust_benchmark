@@ -1,4 +1,9 @@
 ==============================================================================
+Сharacteristics of the testing machine:
+Processor: AMD II X3 2.90 GHz
+RAM: 4 GB DDR3
+Operation system: Kali Linux 2022.3
+==============================================================================
 50x50
 C++:  	real    45,61s
 	user    45,57s
